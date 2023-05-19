@@ -20,7 +20,7 @@ sudo python3 controller.py
 
 ## Képek
 <img src="https://raw.githubusercontent.com/marton1114/Rapsbberry_pi_vr_robot/main/robot.jpg" width="50%" height="50%"> 
-<p float="left">
+<p float="center">
   <img src="https://raw.githubusercontent.com/marton1114/Rapsbberry_pi_vr_robot/main/menu.png" width="25%" height="25%"> 
   <img src="https://raw.githubusercontent.com/marton1114/Rapsbberry_pi_vr_robot/main/controller.jpg" width="25%" height="25%"> 
 </p>
